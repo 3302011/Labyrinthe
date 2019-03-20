@@ -1,4 +1,4 @@
-# Labyrinthe - Intelligence Artificielle - Polytech Sorbonne
+# Labyrinthe - Polytech Sorbonne
 
 EN: this Labyrinth was designed as part of the C programming module carried out in the first year of the engineering cycle in the specialty Applied Mathematics and Computer Science. It is divided into several parts. First, the elements necessary for operation of the Labyrinth and then in a second time the game based on a random operation of the player and finally an intelligent program (A Star).
 
